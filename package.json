@@ -1,6 +1,6 @@
 {
   "name": "repo-context",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Concat all source code in one git repo into one file",
   "main": "ctx.sh",
   "bin": {
