@@ -1,0 +1,12 @@
+{
+  "name": "repo-context",
+  "version": "1.0.0",
+  "description": "Concat all source code in one git repo into one file",
+  "main": "ctx.sh",
+  "bin": {
+    "ctx": "./ctx.sh"
+  },
+  "keywords": [],
+  "author": "Dong Yuwei",
+  "license": "GPL-3.0-only"
+}
